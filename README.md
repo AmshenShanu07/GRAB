@@ -33,17 +33,17 @@ from just looking at their profile
 
 `$ pkg install -y git`
 
-`$ git clone https://github.com/th3unkn0n/osi.ig.git && cd osi.ig`
+`$ git clone https://github.com/AmshenShanu07/GRAB.git`
 
 `$ chmod +x install.sh && ./install.sh`
 
 ## • Usage
 
-`$ python3 main.py -u username`
+`$ python3 grab.py -u username`
 
 `$ python3 main.py -h`
 
-`usage: main.py [-h] -u USERNAME [-p] [-s]`
+`usage: grab.py [-h] -u USERNAME [-p] [-s]`
 
 `optional arguments:`
 
@@ -63,10 +63,9 @@ from just looking at their profile
   Follow Me On
 </p>
 <p align="center">
-  <a href="https://youtube.com/theunknon">
-    <img src="https://www.iconsdb.com/icons/preview/black/youtube-4-xxl.png" width="40" height="40">
+ 
   </a>
-  <a href="https://instagram.com/th3unkn0n">
+  <a href="https://instagram.com/amshen__shanu">
     <img src="http://clipart-library.com/images_k/instagram-png-transparent/instagram-png-transparent-16.png" width="40" height="40">
     </a>
 </p>
