@@ -3,11 +3,11 @@
 </p>
 <p align="center"><img src="https://img.shields.io/badge/Version-1.2-brightgreen"></p>
 <p align="center">
-  <a href="https://github.com/th3unkn0n">
-    <img src="https://img.shields.io/github/followers/th3unkn0n?label=Follow&style=social">
+  <a href="https://github.com/AmshenShanu07">
+    <img src="https://img.shields.io/github/followers/AmshenShanu07?label=Follow&style=social">
   </a>
-  <a href="https://github.com/th3unkn0n/osi.ig/stargazers">
-    <img src="https://img.shields.io/github/stars/th3unkn0n/osi.ig?style=social">
+  <a href="https://github.com/AmshenShanu07/GRAB/stargazers">
+    <img src="https://img.shields.io/github/stars/AmshenShanu07/GRAB?style=social">
   </a>
 </p>
 <p align="center">
